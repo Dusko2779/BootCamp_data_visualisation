@@ -40,6 +40,9 @@ A row for each drug regimen. These regimen names should be contained in the inde
 
 A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
+![Summary Statistics](https://github.com/Dusko2779/BootCamp_data_visualisation/assets/134830906/1e4c4896-0ef9-49f1-8ecf-9ac30cb7db00)
+
+
 ### Create Bar Charts and Pie Charts
 Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
