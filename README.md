@@ -69,6 +69,9 @@ Determine outliers by using the upper and lower bounds, and then print the resul
 
 Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
+![Quartiles, Outliers and Boxplots](https://github.com/Dusko2779/BootCamp_data_visualisation/assets/134830906/877c94f6-ba33-4b41-9f73-1b244e233539)
+
+
 ### Create a Line Plot and a Scatter Plot
 Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 
